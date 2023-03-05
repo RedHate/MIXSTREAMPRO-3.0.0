@@ -1,3 +1,5 @@
+## FIXING CUE GAIN BUG (should be fixed within the hour, please return and i will post a notice when it's fixed)
+
 
 # NUMARK MIXSTREAM PRO 3.0.0 CUSTOM FIRMWARE.
 
